@@ -23,4 +23,6 @@ class controlador {
     }
 }
 
+//nueva linea de prueba 2
+
 ?>
